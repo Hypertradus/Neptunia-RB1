@@ -1,0 +1,149 @@
+﻿_________________________________________________________________
+
+Hypertraducción Neptunia Re;Birth 1 - Versión castellana 1.02
+
+	Traducción por realizada por Hypertraducciones
+
+		Staff de la traducción castellana:
+		
+			Óscar73
+			  DarkantosZ
+			    chaos_hedgehog_89
+
+
+		   (c) 2015 IDEA FACTORY/COMPILE HEART/FELISTELLA                   
+_________________________________________________________________
+
+
+ 
+ 1. Introducción
+_____________________________
+
+    Este Leéme contiene información importante sobre la 
+    traducción al castellano de Hyperdimension Neptunia
+    Re;Birth 1 para PC. Por favor, léelo antes de jugar.
+
+    Antes que nada, queremos darle las gracias a "ノラネコ" del staff de
+	la traducción al ruso, quien nos distribuyó las herramientas
+	indispensables para llevar a cabo esta traducción y nos ayudó en 
+	todo momento. Sin ella, nada de esto hubiera sido posible. Muchas
+	gracias.
+
+    *Dependiendo de la recepción de esta traducción, consideraremos 
+	traducir más juegos de Neptunia en el futuro.
+
+
+ 2. Descargo de responsabilidad
+_____________________________
+
+    Esta modificación, creada por fans del juego, fue creada con
+    el propósito de extender la accesibilidad de este producto hacia la
+    audiencia de habla castellana. 
+	
+	Por consiguiente, no recibe ninguna ganancia monetaria, ya sea a los 
+	dueños originales de la propiedad intelectual o los usuarios de esta 
+	modificación.
+	
+	Cualquiera tiene la libertad de distribuir y compartir la modificación, 
+    siempre y cuando el grupo de traducción sea acreditado, no se venda
+	y este Leéme quede intacto.
+
+
+ 3. Requisitos del sistema
+_____________________________
+
+    Hyperdimension Neptunia Re;Birth 1 en PC usa el API "OpenGL", 
+    utilizado para interpretar los gráficos 2D y 3D del juego, el 
+	cual funciona en la mayoría de ordenadores modernos.
+	
+	Todo y eso se recomiendar una tarjeta gráfica con una potencia 
+	mínima a la recomendada.
+
+    Los requisitos mínimos son:
+
+	OS        Windows 7 (64bit)
+	CPU       Core2Duo 2.66 GHz
+	RAM       4 GB RAM  
+	Vídeo     DirectX 10.x or OpenGL 3.3 con una tarjeta gráfica con 1GB RAM y que sea compatible para v4 shaders
+	DirectX   Versión 10
+	HDD       7 GB de espacio libre
+	SOUND	  DirectX 9.0c compatible
+
+    Los requisitos recomendados son:
+
+	OS        Windows 7 o 8 (64bit) o más moderno
+	CPU       3GHz Intel i3 o equivalente
+	RAM       6 GB RAM 
+	Vídeo     DirectX 10.x or OpenGL 3.3 con una tarjeta gráfica con 1GB RAM y que sea compatible para v4 shaders
+	DirectX   Versión 10
+	HDD       7 GB de espacio libre
+	SOUND	  DirectX 9.0c compatible
+
+    *Notas adicionales: Quizás no funcione bien con Windows 7 y 8 (32bit).
+    
+	(Información que aparece en la página del juego en la Tienda de Steam.)
+
+ 4. Instalación
+_____________________________
+
+    Para instalar la traducción al castellano de
+    Hyperdimension Neptunia Re;Birth 1, consulta 
+	la guía de Steam "Traducción al español".
+	
+	La guía en el Punto de Encuentro de 
+	Hyperdimension Neptunia Re;Birth 1, en el apartado 
+	"Guías". 
+	
+	Si estás leyendo este Leéme y no has obtenido la traducción
+	de esta guía, te recomendamos encarecidamente que la leas.
+
+ 5. Información de contacto
+_____________________________
+
+    Si encuentras problemas con esta versión o algún error (da igual
+	del tipo que sea), por favor háznoslo saber y veremos si podemos
+	solucionarlo. 
+	
+	Comunicadnos cualquier problema u opinión y comentario directamente
+	en nuestros perfiles o en la guía mencionada antes.
+  
+    Óscar73
+    	http://steamcommunity.com/id/Oscar73/
+
+    DarkantosZ
+    	http://steamcommunity.com/id/DarkantosZ/
+
+    chaos_hedgehog_89
+		http://steamcommunity.com/id/chaos_hedgehog_89/
+
+
+ 6. Historial de versiones
+_____________________________
+
+	23/07/2017  Versión 1.02 distribuida
+	
+		- Novedades de la traducción:
+			· Corregidos todos los errores conocidos del modo historia y la database.
+			· Cambiados algunos nombres de NPCs y enemigos.
+			· Repaso a fondo a toda la traducción.
+			· Vídeos subtitulados y a 60FPS.
+			· DLCs retraducidos desde cero.
+			· Eliminación de las versiones pesada/ligera, virtudes de ambas unidas en una sola versión.
+	
+	30/01/2016	Versión 1.01 distribuida
+	
+		- Novedades de la traducción:
+			· Corregidos todos los errores conocidos del modo historia y la database.
+			· Cambiados algunos nombres de NPCs y enemigos.
+			· Texturas de menús e interfaz actualizados.
+			· Texturas de algunos carteles de mazmorras traducidas.
+
+		- Novedades del instalador de la Versión pesada:
+			· Tamaño de la interfaz del instalador reducido.
+			· La ventana del instalador ahora se puede mover.
+			· El instalador ahora permite elegir el disco duro en donde instalar la traducción.
+
+		- Novedades de la Versión Ligera:
+			· Añadido ".exe" modificado para la versión GOG del juego.
+	
+    27/12/2015	Versión 1.00 distribuida
